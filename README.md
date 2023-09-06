@@ -1,7 +1,5 @@
 # Number to Ordinal Converter
 
-![GitHub](https://img.shields.io/github/license/ibkhaleal/convert-number-to-ordinal-in-php)
-![GitHub stars](https://img.shields.io/github/stars/ibkhaleal/convert-number-to-ordinal-in-php?style=social)
 
 A simple PHP function to convert numbers to their ordinal representation (e.g., 1st, 2nd, 3rd, 4th, etc.).
 
