@@ -25,7 +25,7 @@ echo "The $number" . "th item is the $ordinal item.";
 - `ordinal(11)` returns `11th`
 - `ordinal(21)` returns `21st`
 - `ordinal(101)` returns `101st`
-
+```
 
 **Feel free to use this function in your projects and make the world a better place, one ordinal number at a time!** 🌍✨
 
